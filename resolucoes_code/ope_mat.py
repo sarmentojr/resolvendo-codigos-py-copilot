@@ -7,13 +7,13 @@ operacao = input("Digite a operação desejada (+, -, *, /): ")
 
 
 if operacao == "+":
-  resultado = numero1 + numero2
+  resultado = num1 + num2
 elif operacao == "-":
-  resultado = numero1 - numero2
+  resultado = num1 - num2
 elif operacao == "*":
-  resultado = numero1 * numero2
+  resultado = num1 * num2
 elif operacao == "/":
-  resultado = numero1 / numero2
+  resultado = num1 / num2
 else:
   print("Operação inválida!")
   exit()
