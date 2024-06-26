@@ -6,4 +6,4 @@ numero_repeticoes = 4
 
 string_repetida = string * numero_repeticoes
 
-print("String repetida:", string_repetida)
+print("String repetida:"," ", string_repetida)
