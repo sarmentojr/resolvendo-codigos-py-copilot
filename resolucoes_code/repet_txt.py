@@ -3,6 +3,6 @@
 string = input("Digite uma string: ")
 numero_inteiro = int(input("Digite um número inteiro: "))
 
-string_repetida = string * numero_repeticoes
+string_repetida = string * numero_inteiro
 
 print("String repetida:", string_repetida)
