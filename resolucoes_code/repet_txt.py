@@ -2,7 +2,6 @@
 
 string = input("Digite uma string: ")
 numero_inteiro = int(input("Digite um número inteiro: "))
-numero_repeticoes = 4
 
 string_repetida = string * numero_repeticoes
 
